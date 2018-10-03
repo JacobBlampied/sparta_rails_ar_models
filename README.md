@@ -1,24 +1,19 @@
-# README
+#Sparta Rails Model
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Description
+The aim of this project is to use Ruby on Rails to generate an application where two databases are connected using Active Record Associations (in this case: one to many). The data must be validated before it is input into the database.
 
-Things you may want to cover:
+##Languages used
+* Ruby on Rails
 
-* Ruby version
+##How to download
+Clone down the repositiory using the following console command:
+git clone git@github.com:JacobBlampied/sparta_rails_ar_models.git
 
-* System dependencies
+##Challenges
+* Adding/removing columns once the database has already been created.
+* Working through errors as new elements are added.
+* Ran bundler command but could not get bootsrap and jQuery gems to install.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##Takeaways
+* Achieved an understanding on how to set up new databases and process them through the different pages.
